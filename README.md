@@ -64,8 +64,7 @@ Here is a summary of the top 10 highest-paying Data Analyst jobs in the United K
 - Most of the top-paying jobs are in the finance and energy industries.
 - Job titles such as "Lead Analyst", "Senior Analyst", and "Data Architect" tend to offer higher salaries.
 - Specialised roles, such as those focused on fraud, trading, or biology, are paid more.
-- Almost all of the roles are full-time positions.
-- The salaries range from around £75,000 to £180,000 per year.This shows that experience, job title, and industryplay a big role in how much data analysts can earn.
+- The salaries range from around £75,000 to £180,000 per year.
 
  
  ![Top Paying Roles](assets/1_top_paying_roles.png)
